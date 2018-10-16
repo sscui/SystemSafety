@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">secret challenge</string>
+    <string name="input_hint">input_secret</string>
+    <string name="button_check">check</string>
+</resources>
